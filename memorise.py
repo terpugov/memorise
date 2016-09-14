@@ -1,6 +1,5 @@
 #version of Memory using the Tile class
 
-#################################################
    
 
 import simplegui
